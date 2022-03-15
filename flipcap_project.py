@@ -19,7 +19,7 @@ def flipCapString(string):
 
 @app.route('/')
 def hello():
-    print('Welcome to my Petal Project')
+    print('Welcome to my FlipCap Project')
     return 'Hello! I can flip a string at route: /flip/your string here'
 
 
