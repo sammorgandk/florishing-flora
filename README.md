@@ -1,4 +1,4 @@
-# 🌸 Project
+# 🌸 FlipCap Project
 
 This project exposes a very simple REST API with one endpoint. The endpoint accepts a string and returns the string reversed and shifted to all uppercase. The uppercasing is done by making an API call to http://shoutcloud.io/.
 
